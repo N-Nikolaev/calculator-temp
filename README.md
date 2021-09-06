@@ -1,8 +1,7 @@
-# React TypeScript template with Vite
+# React Calculator App
 
-This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) boilerplate built with [Vite](https://vitejs.dev).
-
-It also includes [Husky](https://typicode.github.io/husky) and a pre-commit hook that runs `npm run format`.
+The following application is a simple calculator built with [React](https://reactjs.org), [TypeScript](https://www.typescriptlang.org/)
+that was generated from the [React TypeScript template with Vite](https://github.com/fabien-ml/react-ts-vite-template).
 
 ## What's inside?
 
@@ -46,40 +45,6 @@ It also includes [Husky](https://typicode.github.io/husky) and a pre-commit hook
    ```bash
    npm run dev
    ```
-
-## Recommended VS Code extensions
-
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Other commands
-
-### Lint commands
-
-  ```bash
-  npm run lint
-  ```
-
-### Build commands
-
-```bash
-npm run build
-```
-
-### Test commands
-
-- Run tests
-  ```bash
-  npm run test
-  ```
-- Watch tests
-  ```bash
-  npm run test:watch
-  ```
-- Run e2e tests with cypress
-  ```bash
-  npm run test:e2e
-  ```
 
 ## License
 
